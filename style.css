@@ -1,0 +1,10 @@
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	overflow: hidden;
+}
+
+input {
+	width: 100%;
+	font-size:200px;
+}
